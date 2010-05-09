@@ -1,0 +1,14 @@
+(Who is).*?(\".*?\").*?
+(Who).*?(is)(.*?)((?:[a-z][a-z]+))\s(of).*?(.*?)
+(Who)\sis\s[A-Z][a-z]+?\b
+(Who)\swas\s[A-Z][a-z]+?\b
+
+What\s(is|are).*? (of) \".*?\" 
+(What).*?((?:[a-z][a-z]+)).*?(in).*?(\".*?\").*?(\?)
+(What)\s(was).+?\s(\w+)\s(.*?)((?:[a-z][a-z]+))(\?)
+What.*?\b(\w+)\sis|was
+What\sis.+?\s(\w+)\sthat|which\s*\w+\b
+What\sis\s([A-Z][a-z]+)
+What\swas\s([A-Z][a-z]+)
+What\s([a-z]+)
+What\s(type)\sof\s\w+

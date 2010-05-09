@@ -1,0 +1,5 @@
+What\sare.*?\b(\w+)\sof.*?#WP VBZ.*?(NN|NNS|NNP)\sIN.*?
+What\swas.*?\b(\w+)\sof.*?#WP VBD.*?(NN|NNS|NNP)\sIN.*?
+What\sis.*?\b(\w+)\sin.*?#WP VBD.*?(NN|NNS|NNP)\sIN.*?
+What\swas.*?\b(\w+)\sin.*?#WP VBD.*?(NN|NNS|NNP)\sIN.*?
+What\s.*?\b(\w+)\sstand|short\sfor?#WP.*?(NNP|NNS)\sstand for?
