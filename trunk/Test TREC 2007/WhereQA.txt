@@ -1,0 +1,13 @@
+	Line 115: 	    Where did he grow up?
+	Line 217: 	    Where does Curveball now live?
+	Line 283: 	    Where is the Mint headquartered?
+	Line 340: 	    Where is the company based?
+	Line 397: 	    Where is Merrill Lynch headquartered?
+	Line 442: 	    Where is WWE headquartered?
+	Line 787: 	    Where is the USS Abraham Lincoln home ported?
+	Line 973: 	    Where does she live?
+	Line 2617: 	    Where was the epicenter (latitude and longitude)?
+	Line 2695: 	    Where was Bon Jovi born?
+	Line 2818: 	    Where is Exxon Mobile headquartered?
+	Line 2965: 	    Where is the Boeing 777 built?
+	Line 3049: 	    Where does Australia rank in exports of wine?
