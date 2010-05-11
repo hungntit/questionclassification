@@ -76,14 +76,27 @@
 	Line 3319: 	    In what province and country were Yeti vocalizations recorded?
 	---------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------
+	#################################################################
 	Line 58: 	    What is Krugman's academic specialty?
 	Line 97: 	    What is his real name?
 	Line 148: 	    What is his annual income?
 	Line 193: 	    What was Curveball's profession?
 	Line 199: 	    What is Curveball's real name?
 	Line 364: 	    What is 3M's web address?
+	Line 916: 	    What was Irving Berlin's first big hit?
+	Line 1201: 	    What was author Jasper Fforde's first book?
+	Line 1528: 	    What is the CSPI web site?
+	Line 1348: 	    What was the previous world record time?
+	Line 2128: 	    What food did they eat?
+	Line 391: 	    What is Merrill Lynch's prime business?
+	#################################################################
 	Line 640: 	    What is another slang expression for the Madness?
-	
+	Line 820: 	    What is the 3-character airport code for Dulles?
+	Line 826: 	    What is the approved designation for Dulles?
+	Line 3256: 	    What is the full name for CAFTA?
+	Line 3274: 	    What was the deadline for implementation of CAFTA?
+	#################################################################
+	Line 1213: 	    What company published his first book?
 	Line 64: 	    What prize originating in Spain has Krugman won?
 	Line 76: 	    What persons has Krugman criticized in his op-ed columns?
 	Line 91: 	    What company produces his records?	
@@ -106,9 +119,52 @@
 	Line 2464: 	    What country did the UN investigator, Detlev Mehlis, accuse of responsibility for Hariri's assassination?
 	Line 2476: 	    What country other than Lebanon did he hold citizenship?
 	Line 2482: 	    What countries offered condolences at his death?
-	
+	Line 652: 	    What expression describes the Madness' semifinals?
+	Line 1207: 	    What year was his first book written?
+	Line 1561: 	    What year was the Fulbright Program established?
+	Line 2971: 	    What countries have placed orders to buy the Boeing 777?
+	Line 3004: 	    What Pope started the building of the basilica?
+	Line 3010: 	    What Pope finished building St. Peter's?
+	Line 3127: 	    What governor employed Steffen?
+	Line 1393: 	    What percentage of new car sales in the U.S. in 2004 was for hybrid cars?
+	Line 1414: 	    What positions did Michael Brown hold before becoming head of FEMA?
+	Line 1771: 	    What musicals did Kurt Weill write?
+	Line 2254: 	    What holiday are kumquat trees associated with?
+	Line 2275: 	    What year did she come to the United States?
+	Line 2281: 	    What school did she get her bachelor's degree from?
+	Line 1642: 	    What museum planned to exhibit the cartoons?
+	Line 1669: 	    What organism causes Lyme disease?
+	Line 1681: 	    What medications are used to treat Lyme disease?
+	Line 3094: 	    What temples are at Angkor Wat?
+	Line 3166: 	    What nationality is novelist Orhan Pamuk?
+	Line 2311: 	    What year did she die?
+	Line 2332: 	    What school did he get his bachelor's degree from?
+	Line 3016: 	    What architects were involved in building St. Peter's?
+	Line 2914: 	    What company manufactured the B-17 bomber?
+	Line 2740: 	    What year was Obama elected to the US Senate?
+	Line 2752: 	    What position did Obama hold before becoming US senator?
+	Line 2797: 	    What drugs did Limbaugh take for back pain?
+	Line 2803: 	    What books has Limbaugh written?
+	Line 2599: 	    What countries were affected by this earthquake?
+	Line 2623: 	    What countries supplied aid?
+	Line 3184: 	    What awards has Pamuk won?
+	Line 1540: 	    What restaurant was praised by CSPI for putting nutrition information for all the items on its menus?
+	Line 1546: 	    What restaurant chain was the subject of a complaint made by CSPI to the Food and Drug Administration?
+	Line 1495: 	    What composers wrote songs that Ella Fitzgerald recorded?
+	Line 1597: 	    What senator applied for and received a Fulbright but turned it down?
+	Line 1612: 	    What newspaper first published the cartoons?
+	Line 1828: 	    What women have worn Chanel clothing to award ceremonies?
+	Line 1834: 	    What museums have displayed Chanel clothing?
+	Line 2389: 	    What country is Ahmadinejad president of?
+	#################################################################
 	Line 805: 	    What types of aircraft can fly from the USS Abraham Lincoln?
-	
+	Line 1912: 	    What part of the Soldiers' anatomy reminded the Indians of the buffalo?
+	Line 2218: 	    What type of produce is a kumquat?
+	Line 2869: 	    What type of music is performed by the Dixie Chicks?
+	Line 3286: 	    What members of the U.S. House of Representatives opposed CAFTA?
+	Line 1867: 	    What brands of cigarettes does BAT manufacture?
+	Line 1969: 	    What makes of vehicles participated in the Challenge, including semi-finals?
+	#################################################################
 	Line 70: 	    What are titles of books written by Krugman?		
 	Line 121: 	    What are titles of albums featuring Jay-Z?
 	Line 607: 	    What was the verdict in the trial?
@@ -120,78 +176,55 @@
 	Line 1057: 	    What is the name of the largest ship in Cunard Cruise Lines?
 	Line 883: 	    What is the last name of the character Blondie?	
 	Line 1006: 	    What is the annual salary of the Boston Pops conductor?
-		
+	Line 1018: 	    What is the concert venue of the Boston Pops?	
+	Line 1180: 	    What is the name of the Wizarding Game in "Harry Potter and the Goblet of Fire"?
+	Line 1270: 	    What is the percent of alcohol by volume in Guinness Stout?
+	Line 1516: 	    What is the name of CSPI's newsletter?
+	Line 3313: 	    What was the height of Yeti reported as sighted in Malaysia?
+	Line 3172: 	    What is Pamuk's year of birth?
+	Line 3178: 	    What is Pamuk's city of birth?
+	Line 3190: 	    What are titles of Pamuk's works?
+	Line 1732: 	    What is the name of the American Girl store in New York?
+	Line 1975: 	    What was the make of the winning vehicle?
+	Line 1981: 	    What was the name of the fuel the winner used?
+	Line 2008: 	    What was the percentage of turnout for the election?
+	Line 2848: 	    What was the cost of the oil clean-up?
+	Line 2875: 	    What are the names of the Dixie Chicks?
+	#################################################################
 	Line 358: 	    What does 3M stand for?
 	Line 448: 	    What is "WWE" short for?
-	
-	Line 391: 	    What is Merrill Lynch's prime business?
-	Line 652: 	    What expression describes the Madness' semifinals?
+	#################################################################
+
+	--------------------------------------------------------
 	Line 664: 	    What head coaches had teams in the Madness?
 	Line 748: 	    What is the AMT exemption amount for a single taxpayer in 2006?
 	Line 715: 	    What individuals with professional experience in medicine or ethics commented unfavorably on the procedure?
 	Line 754: 	    What does President Bush want to do to the AMT?
-		
 	Line 775: 	    What is the abbreviated ship designation for the USS Abraham Lincoln?
-	
-	Line 820: 	    What is the 3-character airport code for Dulles?
-	Line 826: 	    What is the approved designation for Dulles?
-
-	Line 916: 	    What was Irving Berlin's first big hit?
-	Line 1018: 	    What is the concert venue of the Boston Pops?	
-	Line 1141: 	    What Jeopardy contestant is the biggest money-winner in television game show history?
 	Line 1168: 	    What is the number for "Harry Potter and the Goblet of Fire" in the series of Harry Potter books?
-	Line 1180: 	    What is the name of the Wizarding Game in "Harry Potter and the Goblet of Fire"?
-	Line 1201: 	    What was author Jasper Fforde's first book?
-	Line 1207: 	    What year was his first book written?
-	Line 1213: 	    What company published his first book?
-	Line 1270: 	    What is the percent of alcohol by volume in Guinness Stout?
+	Line 1141: 	    What Jeopardy contestant is the biggest money-winner in television game show history?
 	Line 1276: 	    What other Breweries make stout beers?
 	Line 1291: 	    What were the names of bombing suspects in the London terrorist attacks in 2005?
 	Line 1342: 	    What was the world record time set in the 2006 competition?
-	Line 1348: 	    What was the previous world record time?
-	Line 1393: 	    What percentage of new car sales in the U.S. in 2004 was for hybrid cars?
-	Line 1414: 	    What positions did Michael Brown hold before becoming head of FEMA?
 	Line 1459: 	    What was Ella Fitzgerald's first hit record?
 	Line 1477: 	    What singers made recordings with Ella Fitzgerald?
 	Line 1483: 	    What was the name of Ella Fitzgerald's Christmas record album?
-	Line 1495: 	    What composers wrote songs that Ella Fitzgerald recorded?
 	Line 1510: 	    What does the abbreviation CSPI stand for?
-	Line 1516: 	    What is the name of CSPI's newsletter?
-	Line 1528: 	    What is the CSPI web site?
-	Line 1540: 	    What restaurant was praised by CSPI for putting nutrition information for all the items on its menus?
-	Line 1546: 	    What restaurant chain was the subject of a complaint made by CSPI to the Food and Drug Administration?
-	Line 1561: 	    What year was the Fulbright Program established?
 	Line 1567: 	    What U.S. government entity sponsors the Fulbright Program?
 	Line 1573: 	    What UN organization hosts internships under the Fulbright Program?
-	Line 1597: 	    What senator applied for and received a Fulbright but turned it down?
-	Line 1612: 	    What newspaper first published the cartoons?
 	Line 1630: 	    What earlier publication about Mohammed created protests and death threats?
 	Line 1636: 	    What was the first U.S. newspaper to publish one of the cartoons?
-	Line 1642: 	    What museum planned to exhibit the cartoons?
-	Line 1669: 	    What organism causes Lyme disease?
-	Line 1681: 	    What medications are used to treat Lyme disease?
 	Line 1687: 	    What insect repellent works against the ticks that carry Lyme disease?
-	Line 1732: 	    What is the name of the American Girl store in New York?
 	Line 1738: 	    What corporation owns the American Girl company?
 	Line 1753: 	    What is the date of Kurt Weill's birth?
-	Line 1771: 	    What musicals did Kurt Weill write?
-	Line 1828: 	    What women have worn Chanel clothing to award ceremonies?
-	Line 1834: 	    What museums have displayed Chanel clothing?
 	Line 1840: 	    What Chanel creation is the top-selling fragrance in the world?
-	Line 1867: 	    What brands of cigarettes does BAT manufacture?
 	Line 1879: 	    What companies has BAT owned?
 	Line 1885: 	    What public health group did BAT help fund?
 	Line 1906: 	    What ethnicity were the Buffalo Soldiers?
-	Line 1912: 	    What part of the Soldiers' anatomy reminded the Indians of the buffalo?
 	Line 1951: 	    What does the acronym DARPA stand for?
-	Line 1969: 	    What makes of vehicles participated in the Challenge, including semi-finals?
-	Line 1975: 	    What was the make of the winning vehicle?
-	Line 1981: 	    What was the name of the fuel the winner used?
-	Line 2008: 	    What was the percentage of turnout for the election?
 	Line 2026: 	    What percentage of the votes did the winner receive?
 	Line 2038: 	    What international leaders sent or gave congratulations?
 	Line 2116: 	    What were the names of characters in the TMNT stories?
-	Line 2128: 	    What food did they eat?
 	Line 2134: 	    What television network carried TMNT?
 	Line 2152: 	    What state-of-the-art technique is being used for the newest TMNT movie?
 	Line 2173: 	    What non-extinct animals are marsupials?
@@ -199,61 +232,29 @@
 	Line 2185: 	    What marsupial is found outside of Australia?
 	Line 2191: 	    What can be made from marsupial manure?
 	Line 2197: 	    What cartoon character is based on a marsupial?
-	Line 2218: 	    What type of produce is a kumquat?
 	Line 2224: 	    What is the genus of kumquat?
 	Line 2230: 	    What color is a kumquat?
 	Line 2236: 	    What is the diameter of a kumquat?
-	Line 2254: 	    What holiday are kumquat trees associated with?
-	Line 2275: 	    What year did she come to the United States?
-	Line 2281: 	    What school did she get her bachelor's degree from?
 	Line 2287: 	    What is the name of the philosophy that she started?
 	Line 2293: 	    What government officials have been influenced by this philosophy?
 	Line 2299: 	    What were her fictional publications (including novels, novelettes, and plays)?
 	Line 2305: 	    What was the name of her husband?
-	Line 2311: 	    What year did she die?
-	Line 2332: 	    What school did he get his bachelor's degree from?
 	Line 2338: 	    What federal organization was Mr. Greenspan chairman of?
 	Line 2374: 	    What foreign countries did Mr. Greenspan visit while chairman?
-	Line 2389: 	    What country is Ahmadinejad president of?
 	Line 2413: 	    What foreign countries has he visited since his election to the presidency?
 	Line 2419: 	    What other positions has he held in government?
 	Line 2497: 	    What does the acronym FISA stand for?
 	Line 2554: 	    What is the average compensation paid for each evacuated family?
 	Line 2578: 	    What were the settlements that were evacuated?
-	Line 2599: 	    What countries were affected by this earthquake?
 	Line 2605: 	    What was the final death toll from this earthquake?
 	Line 2611: 	    What was the strength of this earthquake?
-	Line 2623: 	    What countries supplied aid?
 	Line 2650: 	    What was the original plans for the mission length?
 	Line 2662: 	    What is the minimum power requirement per day for one of these rovers to function?
 	Line 2668: 	    What named landmarks were visited by one of these rovers?
 	Line 2683: 	    What is Jon Bon Jovi's profession?
 	Line 2701: 	    What are some Bon Jovi hits?
-	Line 2740: 	    What year was Obama elected to the US Senate?
-	Line 2752: 	    What position did Obama hold before becoming US senator?
-	Line 2797: 	    What drugs did Limbaugh take for back pain?
-	Line 2803: 	    What books has Limbaugh written?
-	Line 2848: 	    What was the cost of the oil clean-up?
-	Line 2869: 	    What type of music is performed by the Dixie Chicks?
-	Line 2875: 	    What are the names of the Dixie Chicks?
 	Line 2908: 	    What was the nickname given to the B-17 Bomber?
-	Line 2914: 	    What company manufactured the B-17 bomber?
 	Line 2953: 	    What is the non-stop distance record established by the Boeing 777?
-	Line 2971: 	    What countries have placed orders to buy the Boeing 777?
-	Line 3004: 	    What Pope started the building of the basilica?
-	Line 3010: 	    What Pope finished building St. Peter's?
-	Line 3016: 	    What architects were involved in building St. Peter's?
 	Line 3037: 	    What is Australia's signature grape?
 	Line 3055: 	    What winery produces Yellowtail?
-	Line 3094: 	    What temples are at Angkor Wat?
-	Line 3127: 	    What governor employed Steffen?
-	Line 3166: 	    What nationality is novelist Orhan Pamuk?
-	Line 3172: 	    What is Pamuk's year of birth?
-	Line 3178: 	    What is Pamuk's city of birth?
-	Line 3184: 	    What awards has Pamuk won?
-	Line 3190: 	    What are titles of Pamuk's works?
-	Line 3256: 	    What is the full name for CAFTA?
-	Line 3274: 	    What was the deadline for implementation of CAFTA?
-	Line 3286: 	    What members of the U.S. House of Representatives opposed CAFTA?
-	Line 3313: 	    What was the height of Yeti reported as sighted in Malaysia?
 	Line 3325: 	    What other names have been used for Yeti?
