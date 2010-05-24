@@ -86,16 +86,19 @@
 	Line 916: 	    What was Irving Berlin's first big hit?
 	Line 1201: 	    What was author Jasper Fforde's first book?
 	Line 1528: 	    What is the CSPI web site?
-	Line 1348: 	    What was the previous world record time?
-	Line 2128: 	    What food did they eat?
-	Line 391: 	    What is Merrill Lynch's prime business?
+	Line 1348: 	    What was the previous world record time?	
+	Line 391: 	    What is Merrill Lynch's prime business?	
 	#################################################################
 	Line 640: 	    What is another slang expression for the Madness?
 	Line 820: 	    What is the 3-character airport code for Dulles?
 	Line 826: 	    What is the approved designation for Dulles?
 	Line 3256: 	    What is the full name for CAFTA?
 	Line 3274: 	    What was the deadline for implementation of CAFTA?
+	Line 748: 	    What is the AMT exemption amount for a single taxpayer in 2006?
+	Line 775: 	    What is the abbreviated ship designation for the USS Abraham Lincoln?
+	Line 1168: 	    What is the number for "Harry Potter and the Goblet of Fire" in the series of Harry Potter books?
 	#################################################################
+	Line 2128: 	    What food did they eat?
 	Line 1213: 	    What company published his first book?
 	Line 64: 	    What prize originating in Spain has Krugman won?
 	Line 76: 	    What persons has Krugman criticized in his op-ed columns?
@@ -155,7 +158,9 @@
 	Line 1612: 	    What newspaper first published the cartoons?
 	Line 1828: 	    What women have worn Chanel clothing to award ceremonies?
 	Line 1834: 	    What museums have displayed Chanel clothing?
-	Line 2389: 	    What country is Ahmadinejad president of?
+	Line 2389: 	    What country is Ahmadinejad president of?	
+	Line 715: 	    What individuals with professional experience in medicine or ethics commented unfavorably on the procedure?
+	Line 1879: 	    What companies has BAT owned?
 	#################################################################
 	Line 805: 	    What types of aircraft can fly from the USS Abraham Lincoln?
 	Line 1912: 	    What part of the Soldiers' anatomy reminded the Indians of the buffalo?
@@ -164,8 +169,9 @@
 	Line 3286: 	    What members of the U.S. House of Representatives opposed CAFTA?
 	Line 1867: 	    What brands of cigarettes does BAT manufacture?
 	Line 1969: 	    What makes of vehicles participated in the Challenge, including semi-finals?
+	Line 2026: 	    What percentage of the votes did the winner receive?
 	#################################################################
-	Line 70: 	    What are titles of books written by Krugman?		
+	Line 70: 	    What are titles of the books written by Krugman?		
 	Line 121: 	    What are titles of albums featuring Jay-Z?
 	Line 607: 	    What was the verdict in the trial?
 	Line 685: 	    What was the age of the recipient?
@@ -190,18 +196,20 @@
 	Line 2008: 	    What was the percentage of turnout for the election?
 	Line 2848: 	    What was the cost of the oil clean-up?
 	Line 2875: 	    What are the names of the Dixie Chicks?
+	Line 2236: 	    What is the diameter of a kumquat?
+	Line 2287: 	    What is the name of the philosophy that she started?
+	Line 1753: 	    What is the date of Kurt Weill's birth?
 	#################################################################
 	Line 358: 	    What does 3M stand for?
 	Line 448: 	    What is "WWE" short for?
+	Line 1510: 	    What does the abbreviation CSPI stand for?
+	Line 1951: 	    What does the acronym DARPA stand for?
+	Line 2497: 	    What does the acronym FISA stand for?
 	#################################################################
-
-	--------------------------------------------------------
+	Line 2668: 	    What named landmarks were visited by one of these rovers?
 	Line 664: 	    What head coaches had teams in the Madness?
-	Line 748: 	    What is the AMT exemption amount for a single taxpayer in 2006?
-	Line 715: 	    What individuals with professional experience in medicine or ethics commented unfavorably on the procedure?
+	--------------------------------------------------------
 	Line 754: 	    What does President Bush want to do to the AMT?
-	Line 775: 	    What is the abbreviated ship designation for the USS Abraham Lincoln?
-	Line 1168: 	    What is the number for "Harry Potter and the Goblet of Fire" in the series of Harry Potter books?
 	Line 1141: 	    What Jeopardy contestant is the biggest money-winner in television game show history?
 	Line 1276: 	    What other Breweries make stout beers?
 	Line 1291: 	    What were the names of bombing suspects in the London terrorist attacks in 2005?
@@ -209,20 +217,15 @@
 	Line 1459: 	    What was Ella Fitzgerald's first hit record?
 	Line 1477: 	    What singers made recordings with Ella Fitzgerald?
 	Line 1483: 	    What was the name of Ella Fitzgerald's Christmas record album?
-	Line 1510: 	    What does the abbreviation CSPI stand for?
 	Line 1567: 	    What U.S. government entity sponsors the Fulbright Program?
 	Line 1573: 	    What UN organization hosts internships under the Fulbright Program?
 	Line 1630: 	    What earlier publication about Mohammed created protests and death threats?
 	Line 1636: 	    What was the first U.S. newspaper to publish one of the cartoons?
 	Line 1687: 	    What insect repellent works against the ticks that carry Lyme disease?
 	Line 1738: 	    What corporation owns the American Girl company?
-	Line 1753: 	    What is the date of Kurt Weill's birth?
 	Line 1840: 	    What Chanel creation is the top-selling fragrance in the world?
-	Line 1879: 	    What companies has BAT owned?
 	Line 1885: 	    What public health group did BAT help fund?
 	Line 1906: 	    What ethnicity were the Buffalo Soldiers?
-	Line 1951: 	    What does the acronym DARPA stand for?
-	Line 2026: 	    What percentage of the votes did the winner receive?
 	Line 2038: 	    What international leaders sent or gave congratulations?
 	Line 2116: 	    What were the names of characters in the TMNT stories?
 	Line 2134: 	    What television network carried TMNT?
@@ -234,8 +237,6 @@
 	Line 2197: 	    What cartoon character is based on a marsupial?
 	Line 2224: 	    What is the genus of kumquat?
 	Line 2230: 	    What color is a kumquat?
-	Line 2236: 	    What is the diameter of a kumquat?
-	Line 2287: 	    What is the name of the philosophy that she started?
 	Line 2293: 	    What government officials have been influenced by this philosophy?
 	Line 2299: 	    What were her fictional publications (including novels, novelettes, and plays)?
 	Line 2305: 	    What was the name of her husband?
@@ -243,14 +244,12 @@
 	Line 2374: 	    What foreign countries did Mr. Greenspan visit while chairman?
 	Line 2413: 	    What foreign countries has he visited since his election to the presidency?
 	Line 2419: 	    What other positions has he held in government?
-	Line 2497: 	    What does the acronym FISA stand for?
 	Line 2554: 	    What is the average compensation paid for each evacuated family?
 	Line 2578: 	    What were the settlements that were evacuated?
 	Line 2605: 	    What was the final death toll from this earthquake?
 	Line 2611: 	    What was the strength of this earthquake?
 	Line 2650: 	    What was the original plans for the mission length?
 	Line 2662: 	    What is the minimum power requirement per day for one of these rovers to function?
-	Line 2668: 	    What named landmarks were visited by one of these rovers?
 	Line 2683: 	    What is Jon Bon Jovi's profession?
 	Line 2701: 	    What are some Bon Jovi hits?
 	Line 2908: 	    What was the nickname given to the B-17 Bomber?
