@@ -1,0 +1,3 @@
+1/ Dùng các Pattern de tra ve mot phan loai . lay phan loai do lam dac trung .
+vd : What is ....? se tra ve dac trung la DESC:desc 
+ta lay dac trung la DESC:desc
